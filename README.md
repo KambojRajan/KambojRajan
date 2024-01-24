@@ -19,8 +19,9 @@ I'm Rajan Kamboj, a passionate software developer. Here's a bit about the techno
 
 ## Skills
 
-- C, C++, go, Java, Python
-- HTML5, CSS3, Ts/Js
-- Elysia.Js, Express.js, Nextjs
-- PostgreSQL, MongoDB
+- C, C++, go, Java, Python, Ts/Js
+- HTML5, CSS3, Nextjs
+- Elysia.Js, Express.js, Gin, Fiber
+- Mongoose, Gorm, prisma
+- PostgreSQL, MongoDB, MySQl
 - Git
