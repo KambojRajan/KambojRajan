@@ -1,19 +1,7 @@
-### Hi there 👋
+# Hi there! 👋
 
-<!--
-**KambojRajan/KambojRajan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Rajan Kamboj, a passionate software developer. Here's a bit about the technologies I work with:
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-plain.svg" title="C" **alt="C" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-plain.svg" title="CPP" **alt="CPP" width="40" height="40"/>
@@ -28,3 +16,11 @@ Here are some ideas to get you started:
   <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg" title="PostgreSql" **alt="PostgreSql" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
 </div>
+
+## Skills
+
+- C, C++, go, Java, Python
+- HTML5, CSS3, Ts/Js
+- Elysia.Js, Express.js, Nextjs
+- PostgreSQL, MongoDB
+- Git
