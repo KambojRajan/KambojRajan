@@ -5,7 +5,7 @@
 
 - 🌱 I'm presently delving into **Next.JS, Hugo, Redis, R-cnn**
 
-- 👨‍💻 Know me more [bits-toyed.vercel.app/](bits-toyed.vercel.app/)
+
 
 - 💬 I can assist with **MongoDB, PostgresQL, GraphQL, REST, voice-processing**
 
