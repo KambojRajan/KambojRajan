@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Rajan Kamboj</h1>
 <h3 align="center">A passionate software developer from India</h3>
 
-- 🔭 I’m currently working on **DoFox**
+- 🔭 I’m currently working on **Nothing**
 
 - 🌱 I'm presently delving into **Golang**
 
