@@ -18,15 +18,7 @@
 </p>
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
-<!-- android -->
-<a href="https://developer.android.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg"
-        alt="android" width="40" height="40" />
-</a>
-    <a href="https://developer.android.com" target="_blank" rel="noreferrer">
-    <img src="https://github.com/devicons/devicon/blob/master/icons/materialui/materialui-original.svg"
-        alt="android" width="40" height="40" />
-</a>
+    
 <!-- languages -->
 <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40"
