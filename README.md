@@ -132,9 +132,4 @@
 </a>
 </p>
 
-### 🚀 Featured Projects
-
-- **[Ship](https://github.com/KambojRajan/ship)** — A Git-inspired version control system built from scratch in Go, with a content-addressable object store (BoltDB), packfile compression, and OpenTelemetry/Jaeger tracing for span-level profiling.
-- **[NKSM](https://github.com/KambojRajan/nksm)** — A full-stack P2P marketplace (Next.js, MongoDB) for student second-hand item exchange, featuring real-time buyer-seller messaging over Pusher WebSockets and TanStack Query caching. Grew to 100+ active users.
-
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=kambojrajan&show_icons=true&locale=en&layout=compact" alt="kambojrajan" /></p>
